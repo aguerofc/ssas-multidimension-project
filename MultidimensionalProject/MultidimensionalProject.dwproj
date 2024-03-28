@@ -64,7 +64,7 @@
           <ConfigurationSetting>
             <Id>Dm Aventure Works</Id>
             <Name>Dm Aventure Works</Name>
-            <Value xsi:type="xsd:string">Provider=SQLOLEDB.1;Data Source=DESKTOP-R6LFB3P;Password=;User ID=;Initial Catalog=DmAventureWorks</Value>
+            <Value xsi:type="xsd:string">Provider=SQLOLEDB.1;Data Source=DESKTOP-R6LFB3P;Persist Security Info=True;Password=;User ID=;Initial Catalog=DmAventureWorks</Value>
           </ConfigurationSetting>
         </ConnectionMappings>
         <ConnectionSecurityMappings>
